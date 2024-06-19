@@ -29,11 +29,14 @@ Welcome to the **Restaurant System Customer Module**! This module allows custome
 
 ## Links to Other Modules
 **Manager Module**: [GitHub](https://github.com/shahtirthhh/restaurant-system-manager), [Live Demo](https://retaurant-system-manager-module.netlify.app/)
+
 **Chef Module**: [GitHub](https://github.com/shahtirthhh/restaurant-system-chef), [Live Demo](https://restaurant-system-chef-module.netlify.app/)
+
 **Backend API**: [GitHub](https://github.com/shahtirthhh/restaurant-system-backend)
 
 ## Contributors
 **Tirth Shah**
+      
 [**Devanshee Ramanuj**](https://github.com/ramanujdevanshee22)
 
 ## Installation
