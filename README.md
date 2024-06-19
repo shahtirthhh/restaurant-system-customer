@@ -20,6 +20,22 @@ Welcome to the **Restaurant System Customer Module**! This module allows custome
 3. **Real-time Notifications**: Customers receive real-time updates about their order status via **Socket.io**.
 4. **Order Tracking**: The customer can see if the order is accepted, canceled, or marked as served by the manager or chef.
 
+## Technologies Used
+**React**
+**TailwindCSS**
+**Socket.io**
+**Node.js**
+**Mongodb**
+
+## Links to Other Modules
+**Manager Module**: [GitHub](https://github.com/shahtirthhh/restaurant-system-manager), [Live Demo](https://retaurant-system-manager-module.netlify.app/)
+**Chef Module**: [GitHub](https://github.com/shahtirthhh/restaurant-system-chef), [Live Demo](https://restaurant-system-chef-module.netlify.app/)
+**Backend API**: [GitHub](https://github.com/shahtirthhh/restaurant-system-backend)
+
+## Contributors
+**Tirth Shah**
+[**Devanshee Ramanuj**](https://github.com/ramanujdevanshee22)
+
 ## Installation
 
 To run this module locally:
