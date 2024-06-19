@@ -1,5 +1,16 @@
 # 🍽️ Restaurant System - Customer Module
 
+# System Overview
+
+Each module is interconnected, providing a seamless experience for customers, managers, and chefs:
+
+1. **Customer Module**: Customers can browse the menu and place orders. They receive real-time updates on their order status.
+2. **Manager Module**: Managers can view all orders, manage the menu, and update order statuses, notifying both customers and chefs.
+3. **Chef Module**: Chefs can view and update the status of orders, notifying both managers and customers.
+4. **Backend API**: Manages the database operations and real-time communication across all modules.
+
+Together, these modules create an efficient and interactive restaurant management system.
+_______________________________________________________________________________________________________________
 ## Overview
 
 Welcome to the **Restaurant System Customer Module**! This module allows customers to browse the menu, place orders, and receive real-time updates on their orders. The module is built using **React**, **TailwindCSS**, **Socket.io**, and **Node.js** for real-time communication with the manager and chef modules.
